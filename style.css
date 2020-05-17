@@ -23,3 +23,30 @@
     height: 100px !important;
     background-color: powderblue !important;
 }
+
+.woocommerce .col2-set .col-1, .woocommerce-page .col2-set .col-1 {
+    float: left !important;
+    width: 48% !important;
+    max-width: 500px !important;
+    height: 100px !important;
+    background-color: powderblue !important;
+}
+.woocommerce .col2-set .col-1, .woocommerce-page .col2-set .col-1 {
+    float: left !important;
+    width: 48% !important;
+    max-width: 500px !important;
+    height: 100px !important;
+    background-color: powderblue !important;
+}
+
+img, video {
+    height: auto !important;
+    max-width: 100% !important;
+    box-shadow: 10px 10px 5px #ccc !important;
+}
+
+.site-title a, h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, .widget-title, a:hover, .entry-meta a:hover {
+    font-family: sans-serif !important;
+    color: #cb2027 !important;
+
+}
