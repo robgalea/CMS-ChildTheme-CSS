@@ -1,0 +1,9 @@
+/*
+ Theme Name:   twentyseventeen Child Theme
+ description: >-
+   A child theme of the twentyseventeen default WordPress theme
+ Author:       Roberto Galea
+ Template:     twentyseventeen
+ Version:      1.0.0
+*/
+@import url("../twentyseventeen/style.css");
