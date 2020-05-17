@@ -50,3 +50,18 @@ img, video {
     color: #cb2027 !important;
 
 }
+
+.navigation-top {
+    background: #00000080 !important;
+    border-bottom: 1px solid #eee !important;
+    border-top: 1px solid #eee !important;
+    font-size: 16px !important;
+    font-size: 1rem !important;
+    position: relative !important;
+}
+
+.navigation-top a {
+    color: #eee !important;
+    font-weight: 600 !important;
+    -webkit-transition: color 0.2s !important;
+    transition: color 0.2s !important;
