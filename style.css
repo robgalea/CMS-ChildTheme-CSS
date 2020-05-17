@@ -65,3 +65,19 @@ img, video {
     font-weight: 600 !important;
     -webkit-transition: color 0.2s !important;
     transition: color 0.2s !important;
+}
+
+.navigation-top .current-menu-item > a, .navigation-top .current_page_item > a {
+    color: #eee !important;
+}
+	
+}
+#sb_instagram .sb_instagram_header {
+    float: left !important;
+    clear: both !important;
+    margin: 0 0 15px 0 !important;
+    padding: 0 !important;
+    line-height: 1.2 !important;
+    width: 100% !important;
+    background-color: #0000008f !important;
+}
